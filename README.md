@@ -3,9 +3,9 @@
 
 **Table of Contents**:
 
-- [cell imaging](#cell imaging)
-  - [image processing(segmentation/detection/classification)](#image processing(segmentation/detection/classification))
-- [single-cell omics](#single-cell omics)
+- [cell_imaging](#cell_imaging)
+  - [image processing(segmentation/detection/classification)](#image_processing(segmentation/detection/classification))
+- [single-cell_omics](#single-cell_omics)
 - [cell](#cell)
 *****************
 
