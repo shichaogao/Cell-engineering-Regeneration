@@ -10,8 +10,8 @@
 *****************
 
 
-## cell imaging
-### image processing(segmentation/detection/classification)
+## cell_imaging
+### image_processing(segmentation/detection/classification)
 1.[ESC-Track: A computer workflow for 4-D segmentation, tracking, lineage tracing and dynamic context analysis of ESCs](https://pubmed.ncbi.nlm.nih.gov/32720710/).<br>
 2.[Automatic three‐dimensional segmentation of mouse embryonic stem cell nuclei by utilising multiple channels of confocal fluorescence images](https://onlinelibrary.wiley.com/doi/10.1111/jmi.12949).<br>
 3.[Evaluation of Deep Learning Strategies for Nucleus Segmentation in Fluorescence Images](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23863).<br>
@@ -62,7 +62,7 @@
 48.[U-Net: deep learning for cell counting, detection, and morphometry](https://www.nature.com/articles/s41592-018-0261-2).<br>
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
-## single-cell omics
+## single-cell_omics
 1.[Lineage tracing meets single-cell omics: opportunities and challenges](https://www.nature.com/articles/s41576-020-0223-2).<br>
 2.[Integrative single-cell analysis](https://www.nature.com/articles/s41576-019-0093-7).<br>
 3.[CellTagging: combinatorial indexing to simultaneously map lineage and identity at single-cell resolution](https://www.nature.com/articles/s41596-019-0247-2).<br>
