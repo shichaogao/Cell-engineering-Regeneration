@@ -125,7 +125,36 @@
 111.[Cell Tracking using Convolutional Neural Networks](http://cs231n.stanford.edu/reports/2016/pdfs/326_Report.pdf).<br>
 112.[On-line Tracking of Cells and Their Lineage from Time Lapse Video Data](https://ieeexplore.ieee.org/abstract/document/8570546).<br>
 113.[Tracking and Imaging of Transplanted Stem Cells in Animals](https://link.springer.com/protocol/10.1007/7651_2019_275).<br>
-114.[
+114.[Deeply-supervised density regression for automatic cell counting in microscopy images](https://www.sciencedirect.com/science/article/abs/pii/S1361841520302565).<br>
+115.[CellCycleGAN: Spatiotemporal Microscopy Image Synthesis of Cell Populations using Statistical Shape Models and Conditional GANs](https://arxiv.org/abs/2010.12011).<br>
+116.[SplineDist: Automated Cell Segmentation with Spline Curves](https://www.biorxiv.org/content/10.1101/2020.10.27.357640v1.abstract).<br>
+117.[A bird’s-eye view of deep learning in bioimage analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494605/).<br>
+118.[A Hybrid Approach for Segmentation and Tracking of Myxococcus Xanthus Swarms](https://ieeexplore.ieee.org/abstract/document/7444158).<br>
+119.[Interactive Tracking of Cells in Microscopy Image Sequences](https://cs-web.bu.edu/faculty/betke/papers/Gentil-etal-IMIC-MICCAI-2016.pdf).<br>
+120.[Label free, quantitative single-cell fate tracking of time-lapse movies](https://www.sciencedirect.com/science/article/pii/S2215016119302791).<br>
+121.[Joint segmenting and tracking densely packed cells using dynamic-GVF based snakes](https://ieeexplore.ieee.org/abstract/document/8368696).<br>
+122.[Microscopic imaging of living cells, automatic tracking and the description of the kinetics of the cells for imagemining](https://www.researchgate.net/profile/Petra_Perner/publication/313228574_Microscopic_imaging_of_living_cells_automatic_tracking_and_the_description_of_the_kinetics_of_the_cells_for_image-_mining/links/5a2f67040f7e9bfe81703764/Microscopic-imaging-of-living-cells-automatic-tracking-and-the-description-of-the-kinetics-of-the-cells-for-image-mining.pdf).<br>
+123.[Cell Lineage Tracking Based on Labeled Random Finite Set Filtering](https://ieeexplore.ieee.org/abstract/document/8570327).<br>
+124.[Convolutional Features-Based CRF Graph Matching for Tracking of Densely Packed Cells](https://ieeexplore.ieee.org/abstract/document/8545249).<br>
+125.[Segmentation and tracking of Pseudomonas aeruginosa for cell dynamics analysis in time-lapse images](https://ieeexplore.ieee.org/abstract/document/7493426).<br>
+126.[Live-cell 3D single-molecule tracking reveals how NuRD modulates enhancer dynamics](https://www.biorxiv.org/content/10.1101/2020.04.03.003178v1.abstract).<br>
+127.[Automated tracking approach with ant colonies for different cell population density distribution](https://link.springer.com/article/10.1007/s00500-016-2048-7).<br>
+128.[Automated cell lineage tracing in Caenorhabditis elegans](https://www.pnas.org/content/103/8/2707).<br>
+129.[Automated cell tracking identifies mechanically oriented cell divisions during Drosophila axis elongation](https://dev.biologists.org/content/144/7/1350).<br>
+130.[Real-Time Three-Dimensional Cell Segmentation in Large-Scale Microscopy Data of Developing Embryos](https://www.cell.com/developmental-cell/pdfExtended/S1534-5807(15)00837-0).<br>
+131.[Fast, accurate reconstruction of cell lineages from large-scale fluorescence microscopy data](https://www.nature.com/articles/nmeth.3036/).<br>
+132.[Interactive exemplar-based segmentation toolkit for biomedical image analysis](https://ieeexplore.ieee.org/abstract/document/7163842).<br>
+133.[Emerging Imaging and Genomic Tools for Developmental Systems Biology Author links open overlay panel
+(https://www.sciencedirect.com/science/article/pii/S1534580716300715).<br>
+134.[Cousins at work: How combining medical with optical imaging enhances in vivo cell tracking](https://www.sciencedirect.com/science/article/pii/S135727251830150X).<br>
+135.[Robust Nucleus/Cell Detection and Segmentation in Digital Pathology and Microscopy Images: A Comprehensive Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233461/).<br>
+136.[EmbryoMiner: A new framework for interactive knowledge discovery in large-scale cell tracking data of developing embryos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5929571/).<br>
+137.[Multi-scale imaging and analysis identify pan-embryo cell dynamics of germlayer formation in zebrafish](https://www.nature.com/articles/s41467-019-13625-0).<br>
+138.[Shape-aware Segmentation of Biomedical Images using Deep Learning](https://is.muni.cz/th/wzv56/filip_lux_rigo.pdf).<br>
+139.[Cellular and molecular imaging for stem cell tracking in neurological diseases](https://svn.bmj.com/content/early/2020/10/29/svn-2020-000408).<br>
+140.[Robust single neuron tracking of calcium imaging in behaving Hydra](https://www.biorxiv.org/content/10.1101/2020.06.22.165696v1.abstract).<br>
+141.[Two-Photon Image Tracking of Neural Stem Cells via Iridium Complexes Encapsulated in Polymeric Nanospheres](https://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.8b01231).<br>
+142.[Quantitative high-speed imaging of entire developing embryos with simultaneous multiview light-sheet microscopy](https://www.nature.com/articles/nmeth.2062).<br>
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
 ## single-cell_omics
@@ -164,6 +193,7 @@ collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcd
 2.[Single-cell analysis uncovers convergence of cell identities during axolotl limb regeneration](https://science.sciencemag.org/content/362/6413/eaaq0681.abstract).<br>
 3.[Semi-supervised machine learning facilitates cell colocalization and tracking in intravital microscopy](https://www.biorxiv.org/content/10.1101/829838v1.abstract).<br>
 4.[Cell Tracking using Convolutional Neural Networks](http://cs231n.stanford.edu/reports/2016/pdfs/326_Report.pdf).<br
+5.[In Toto Imaging and Reconstruction of Post-Implantation Mouse Development at the Single-Cell Level](https://www.sciencedirect.com/science/article/pii/S0092867418312431).<br>
 
 lecture_seminar
 [MIA Meeting](https://www.youtube.com/watch?v=_jSo7oeqT0c&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS)
