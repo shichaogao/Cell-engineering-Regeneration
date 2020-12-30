@@ -187,7 +187,11 @@ collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcd
 27.[CellRank for directed single-cell fate mapping](https://www.biorxiv.org/content/10.1101/2020.10.19.345983v1.abstract).<br>
 28.[Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming](https://www.cell.com/cell/fulltext/S0092-8674(19)30039-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS009286741930039X%3Fshowall%3Dtrue#%20).<br>
 29.[Building a lineage from single cells: genetic techniques for cell lineage tracking](https://www.nature.com/articles/nrg.2016.159).<br>
-30.
+30.[GCNG: graph convolutional networks for inferring gene interaction from spatial transcriptomics data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02214-w).<br>
+31.[Deep learning for inferring gene relationships from single-cell expression data](https://www.pnas.org/content/116/52/27151.short).<br>
+32.[A polynomial based model for cell fate prediction in human diseases](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-017-0502-5).<br>
+33.[eesawPred: A Web Application for Predicting Cell-fate Determinants in Cell Differentiation](https://www.nature.com/articles/s41598-018-31688-9).<br>
+34.
 ## cell
 1.[Mechanisms of 3D cell migration](https://www.nature.com/articles/s41580-019-0172-9).<br>
 2.[Single-cell analysis uncovers convergence of cell identities during axolotl limb regeneration](https://science.sciencemag.org/content/362/6413/eaaq0681.abstract).<br>
