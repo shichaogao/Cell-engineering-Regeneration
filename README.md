@@ -60,6 +60,13 @@
 46.[ilastik: interactive machine learning for (bio)image analysis](https://www.nature.com/articles/s41592-019-0582-9).<br>
 47.[Quantitative Digital Microscopy with Deep Learning](https://arxiv.org/abs/2010.08260).<br>
 48.[U-Net: deep learning for cell counting, detection, and morphometry](https://www.nature.com/articles/s41592-018-0261-2).<br>
+49.[A workflow to process 3D+time microscopy images of developing organisms and reconstruct their cell lineage](https://www.nature.com/articles/ncomms9674/).<br>
+50.[Multi-view light-sheet imaging and tracking with the MaMuT software reveals the cell lineage of a direct developing arthropod limb](https://elifesciences.org/articles/34410).<br>
+51.[Cell segmentation in 3D confocal images using supervoxel merge-forests with CNN-based hypothesis selection](https://ieeexplore.ieee.org/abstract/document/8363598).<br>
+52.[Image analysis of neural stem cell division patterns in the zebrafish brain](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23260).<br>
+53.[Three-dimensional microscopy and image analysis methodology for mapping and quantification of nuclear positions in tissues with approximate cylindrical geometry](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0332).<br>
+54.[3D image segmentation supported by a point cloud](https://www.aimsciences.org/article/doi/10.3934/dcdss.2020351?viewType=html).<br>
+55.[Towards Automatic Embryo Staging in 3D+t Microscopy Images Using Convolutional Neural Networks and PointNets](https://link.springer.com/chapter/10.1007/978-3-030-59520-3_16).<br>
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
 ## single-cell_omics
@@ -77,5 +84,23 @@ collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcd
 12.[The emergence of transcriptional identity in somatosensory neurons](https://www.nature.com/articles/s41586-019-1900-1).<br>
 13.[Single-cell analysis of olfactory neurogenesis and differentiation in adult humans](https://www.nature.com/articles/s41593-020-0587-9).<br>
 14.[Next-Generation Lineage Tracing and Fate Mapping to Interrogate Development](https://www.sciencedirect.com/science/article/abs/pii/S1534580720308418).<br>
-15.
+15.[Robust lineage reconstruction from high-dimensional single-cell data](https://academic.oup.com/nar/article/44/14/e122/2468175?login=true).<br>
+16.[Cell lineage inference from SNP and scRNA-Seq data](https://academic.oup.com/nar/article/47/10/e56/5367412?login=true).<br>
+17.[Analysis of Cell Fate from Single-Cell Gene Expression Profiles in C. elegans](https://www.sciencedirect.com/science/article/pii/S0092867409011180).<br>
+18.[A multiscale model of early cell lineage specification including cell division](https://www.nature.com/articles/s41540-017-0017-0).<br>
+19.[Single-cell lineage analysis reveals extensive multimodal transcriptional control during directed beta-cell differentiation](https://www.nature.com/articles/s42255-020-00314-2).<br>
+20.[Single-Cell Transcriptomics Meets Lineage Tracing](https://www.sciencedirect.com/science/article/pii/S1934590918301760).<br>
+21.[Statistical Inference in Cell Lineage Trees](https://www.biorxiv.org/content/10.1101/267450v1.full).<br>
+22.[Automated deep lineage tree analysis using a Bayesian single cell tracking approach](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.abstract).<br>
+23.[Single-cell mapping of gene expression landscapes and lineage in the zebrafish embryo](https://science.sciencemag.org/content/360/6392/981.abstract).<br>
+24.[Scrublet: Computational Identification of Cell Doublets in Single-Cell Transcriptomic Data](https://www.sciencedirect.com/science/article/pii/S2405471218304745).<br>
+25.[Lineage tracing on transcriptional landscapes links state to fate during differentiation](https://science.sciencemag.org/content/367/6479/eaaw3381.abstract).<br>
+26.[A Unified Framework for Lineage Tracing and Trajectory Inference](https://www.biorxiv.org/content/10.1101/2020.07.31.231621v1.abstract).<br>
+27.[CellRank for directed single-cell fate mapping](https://www.biorxiv.org/content/10.1101/2020.10.19.345983v1.abstract).<br>
+28.[Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming](https://www.cell.com/cell/fulltext/S0092-8674(19)30039-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS009286741930039X%3Fshowall%3Dtrue#%20).<br>
+## cell
+1.[Mechanisms of 3D cell migration](https://www.nature.com/articles/s41580-019-0172-9).<br>
 
+
+lecture_seminar
+[MIA Meeting](https://www.youtube.com/watch?v=_jSo7oeqT0c&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS)
