@@ -144,8 +144,7 @@
 130.[Real-Time Three-Dimensional Cell Segmentation in Large-Scale Microscopy Data of Developing Embryos](https://www.cell.com/developmental-cell/pdfExtended/S1534-5807(15)00837-0).<br>
 131.[Fast, accurate reconstruction of cell lineages from large-scale fluorescence microscopy data](https://www.nature.com/articles/nmeth.3036/).<br>
 132.[Interactive exemplar-based segmentation toolkit for biomedical image analysis](https://ieeexplore.ieee.org/abstract/document/7163842).<br>
-133.[Emerging Imaging and Genomic Tools for Developmental Systems Biology Author links open overlay panel]
-(https://www.sciencedirect.com/science/article/pii/S1534580716300715).<br>
+133.[Emerging Imaging and Genomic Tools for Developmental Systems Biology Author links open overlay panel](https://www.sciencedirect.com/science/article/pii/S1534580716300715).<br>
 134.[Cousins at work: How combining medical with optical imaging enhances in vivo cell tracking](https://www.sciencedirect.com/science/article/pii/S135727251830150X).<br>
 135.[Robust Nucleus/Cell Detection and Segmentation in Digital Pathology and Microscopy Images: A Comprehensive Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233461/).<br>
 136.[EmbryoMiner: A new framework for interactive knowledge discovery in large-scale cell tracking data of developing embryos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5929571/).<br>
