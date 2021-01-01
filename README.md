@@ -6,7 +6,7 @@
 - [cell_imaging](#cell_imaging)
   - [image processing(segmentation/detection/classification/tracking)](#image_processing(segmentation/detection/classification/tracking))
 - [single-cell_omics](#single-cell_omics)
-- [cell](#cell)
+- [cell_lineage](#cell_lineage)
 *****************
 
 
@@ -191,7 +191,7 @@ collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcd
 32.[A polynomial based model for cell fate prediction in human diseases](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-017-0502-5).<br>
 33.[eesawPred: A Web Application for Predicting Cell-fate Determinants in Cell Differentiation](https://www.nature.com/articles/s41598-018-31688-9).<br>
 34.
-## cell
+## cell_lineage
 1.[Mechanisms of 3D cell migration](https://www.nature.com/articles/s41580-019-0172-9).<br>
 2.[Single-cell analysis uncovers convergence of cell identities during axolotl limb regeneration](https://science.sciencemag.org/content/362/6413/eaaq0681.abstract).<br>
 3.[Semi-supervised machine learning facilitates cell colocalization and tracking in intravital microscopy](https://www.biorxiv.org/content/10.1101/829838v1.abstract).<br>
