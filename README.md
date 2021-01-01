@@ -154,6 +154,7 @@
 140.[Robust single neuron tracking of calcium imaging in behaving Hydra](https://www.biorxiv.org/content/10.1101/2020.06.22.165696v1.abstract).<br>
 141.[Two-Photon Image Tracking of Neural Stem Cells via Iridium Complexes Encapsulated in Polymeric Nanospheres](https://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.8b01231).<br>
 142.[Quantitative high-speed imaging of entire developing embryos with simultaneous multiview light-sheet microscopy](https://www.nature.com/articles/nmeth.2062).<br>
+143.[Nucleus segmentation across imaging experiments: the 2018 Data Science Bowl](https://www.nature.com/articles/s41592-019-0612-7).<br>
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
 ## single-cell_omics
