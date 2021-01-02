@@ -155,6 +155,9 @@
 141.[Two-Photon Image Tracking of Neural Stem Cells via Iridium Complexes Encapsulated in Polymeric Nanospheres](https://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.8b01231).<br>
 142.[Quantitative high-speed imaging of entire developing embryos with simultaneous multiview light-sheet microscopy](https://www.nature.com/articles/nmeth.2062).<br>
 143.[Nucleus segmentation across imaging experiments: the 2018 Data Science Bowl](https://www.nature.com/articles/s41592-019-0612-7).<br>
+144.[nucleAIzer: A Parameter-free Deep Learning Framework for Nucleus Segmentation Using Image Style Transfer](https://www.sciencedirect.com/science/article/pii/S2405471220301174).<br>
+145.[CP-CHARM: segmentation-free image classification made accessible](https://link.springer.com/article/10.1186/s12859-016-0895-y).<br>
+146.[DoGNet: A deep architecture for synapse detection in multiplexed fluorescence images](https://journals.plos.org/ploscompbiol/article?rev=2&id=10.1371/journal.pcbi.1007012).<br>
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
 ## single-cell_omics
