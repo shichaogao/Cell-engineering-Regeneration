@@ -169,6 +169,7 @@
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
 forum-[image.sc](https://forum.image.sc/tags/c/image-analysis/6/segmentation)
+library-[cell image library](cellimagelibrary.org).<br>
 ## single-cell_omics
 1.[Lineage tracing meets single-cell omics: opportunities and challenges](https://www.nature.com/articles/s41576-020-0223-2).<br>
 2.[Integrative single-cell analysis](https://www.nature.com/articles/s41576-019-0093-7).<br>
