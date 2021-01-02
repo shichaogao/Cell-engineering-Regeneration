@@ -160,6 +160,7 @@
 146.[DoGNet: A deep architecture for synapse detection in multiplexed fluorescence images](https://journals.plos.org/ploscompbiol/article?rev=2&id=10.1371/journal.pcbi.1007012).<br>
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
+forum-[image.sc](https://forum.image.sc/tags/c/image-analysis/6/segmentation)
 ## single-cell_omics
 1.[Lineage tracing meets single-cell omics: opportunities and challenges](https://www.nature.com/articles/s41576-020-0223-2).<br>
 2.[Integrative single-cell analysis](https://www.nature.com/articles/s41576-019-0093-7).<br>
