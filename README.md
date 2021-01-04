@@ -161,11 +161,16 @@
 147.[Inpainting Networks Learn to Separate Cells in Microscopy Images](http://129.206.117.249/sites/default/files/publications/files/852479027/wolf_20_inpainting-min.pdf).<br>
 148.[Analyzing Image Segmentation for Connectomics](https://www.frontiersin.org/articles/10.3389/fncir.2018.00102/full).<br>
 149.[The candidate multi-cut for cell segmentation](https://ieeexplore.ieee.org/abstract/document/8363658).<br>
-150.[A Benchmark for Epithelial Cell Tracking](https://openaccess.thecvf.com/content_eccv_2018_workshops/w33/html/Funke_A_Benchmark_for_Epithelial_Cell_Tracking_ECCVW_2018_paper.html).<br>
-151.[Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction](https://ieeexplore.ieee.org/abstract/document/8364622).<br>
-152.[An objective comparison of cell-tracking algorithms](https://www.nature.com/articles/nmeth.4473).<br>
-153.[3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://www.nature.com/articles/s41591-018-0107-6?sf195443527=1).<br>
-154.[DoGNet: A deep architecture for synapse detection in multiplexed fluorescence images](https://journals.plos.org/ploscompbiol/article?rev=2&id=10.1371/journal.pcbi.1007012).<br>
+150.[Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction](https://ieeexplore.ieee.org/abstract/document/8364622).<br>
+151.[An objective comparison of cell-tracking algorithms](https://www.nature.com/articles/nmeth.4473).<br>
+152.[3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://www.nature.com/articles/s41591-018-0107-6?sf195443527=1).<br>
+153.[DoGNet: A deep architecture for synapse detection in multiplexed fluorescence images](https://journals.plos.org/ploscompbiol/article?rev=2&id=10.1371/journal.pcbi.1007012).<br>
+154.[Challenges in long-term imaging and quantification of single-cell dynamics](https://www.nature.com/articles/nbt.3713).<br>
+155.[Cell Tracking via Proposal Generation and Selection](https://arxiv.org/abs/1705.03386).<br>
+156.[Biologically constrained optimization based cell membrane segmentation in C. elegans embryos](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1717-6).<br>
+157.[LimeSeg: a coarse-grained lipid membrane simulation for 3D image segmentation](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2471-0).<br>
+158.[Accurate 3D Cell Segmentation Using Deep Features and CRF Refinement](https://ieeexplore.ieee.org/abstract/document/8803095).<br>
+159.
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
 forum-[image.sc](https://forum.image.sc/tags/c/image-analysis/6/segmentation)
