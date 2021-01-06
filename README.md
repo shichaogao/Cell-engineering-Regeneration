@@ -170,7 +170,12 @@
 156.[Biologically constrained optimization based cell membrane segmentation in C. elegans embryos](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1717-6).<br>
 157.[LimeSeg: a coarse-grained lipid membrane simulation for 3D image segmentation](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2471-0).<br>
 158.[Accurate 3D Cell Segmentation Using Deep Features and CRF Refinement](https://ieeexplore.ieee.org/abstract/document/8803095).<br>
-159.
+159.[Robust detection and segmentation of cell nuclei in biomedical images based on a computational topology framework](https://pubmed.ncbi.nlm.nih.gov/28314191/).<br>
+160.[A Topological Loss Function for Deep-Learning based Image Segmentation using Persistent Homology](https://pubmed.ncbi.nlm.nih.gov/32886606/).<br>
+161.[Recent computational methods for white blood cell nuclei segmentation: A comparative study](https://pubmed.ncbi.nlm.nih.gov/31046984/).<br>
+162.[Automatic three-dimensional segmentation of mouse embryonic stem cell nuclei by utilising multiple channels of confocal fluorescence images](https://pubmed.ncbi.nlm.nih.gov/32720710/).<br>
+163.[3D Segmentation,Visualization and Quantitative Analysis of Differentiation Activity for Mouse Embryonic Stem Cells using Time-Lapse Fluorescence Microscopy Images](https://ieeexplore.ieee.org/document/8251279).<br>
+164.
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
 forum-[image.sc](https://forum.image.sc/tags/c/image-analysis/6/segmentation)
