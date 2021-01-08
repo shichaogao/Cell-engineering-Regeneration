@@ -175,7 +175,9 @@
 161.[Recent computational methods for white blood cell nuclei segmentation: A comparative study](https://pubmed.ncbi.nlm.nih.gov/31046984/).<br>
 162.[Automatic three-dimensional segmentation of mouse embryonic stem cell nuclei by utilising multiple channels of confocal fluorescence images](https://pubmed.ncbi.nlm.nih.gov/32720710/).<br>
 163.[3D Segmentation,Visualization and Quantitative Analysis of Differentiation Activity for Mouse Embryonic Stem Cells using Time-Lapse Fluorescence Microscopy Images](https://ieeexplore.ieee.org/document/8251279).<br>
-164.
+164.[DeepCell Kiosk: scaling deep learning–enabled cellular image analysis with Kubernetes](https://www.nature.com/articles/s41592-020-01023-0).<br>
+165.[nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation](https://www.nature.com/articles/s41592-020-01008-z).<br>
+166.
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
 forum-[image.sc](https://forum.image.sc/tags/c/image-analysis/6/segmentation)
@@ -222,6 +224,9 @@ library-[cell image library](cellimagelibrary.org).<br>
 4.[Cell Tracking using Convolutional Neural Networks](http://cs231n.stanford.edu/reports/2016/pdfs/326_Report.pdf).<br
 5.[In Toto Imaging and Reconstruction of Post-Implantation Mouse Development at the Single-Cell Level](https://www.sciencedirect.com/science/article/pii/S0092867418312431).<br>
 6.[Long-term self-renewing stem cells in the adult mouse hippocampus identified by intravital imaging](https://www.nature.com/articles/s41593-020-00759-4).<br>
+7.[MARS: discovering novel cell types across heterogeneous single-cell experiments](https://www.nature.com/articles/s41592-020-00979-3).<br>
+
+
 
 lecture_seminar
 [MIA Meeting](https://www.youtube.com/watch?v=_jSo7oeqT0c&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS)
