@@ -178,6 +178,10 @@
 164.[DeepCell Kiosk: scaling deep learning–enabled cellular image analysis with Kubernetes](https://www.nature.com/articles/s41592-020-01023-0).<br>
 165.[nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation](https://www.nature.com/articles/s41592-020-01008-z).<br>
 166.[Maximizing Kolmogorov Complexity for accurate and robust bright field cell segmentation](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-32).<br>
+167.[Automated Segmentation of Fluorescence Microscopy Images for 3D Cell Detection in human-derived Cardiospheres](https://www.nature.com/articles/s41598-019-43137-2).<br>
+168.[Automated cell boundary and 3D nuclear segmentation of cells in suspension](https://www.nature.com/articles/s41598-019-46689-5).<br>
+
+
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
 forum-[image.sc](https://forum.image.sc/tags/c/image-analysis/6/segmentation)
