@@ -163,7 +163,7 @@
 149.[The candidate multi-cut for cell segmentation](https://ieeexplore.ieee.org/abstract/document/8363658).<br>
 150.[Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction](https://ieeexplore.ieee.org/abstract/document/8364622).<br>
 151.[An objective comparison of cell-tracking algorithms](https://www.nature.com/articles/nmeth.4473).<br>
-152.[3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://www.nature.com/articles/s41591-018-0107-6?sf195443527=1).<br>
+152.[3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/abs/1606.06650).<br>
 153.[DoGNet: A deep architecture for synapse detection in multiplexed fluorescence images](https://journals.plos.org/ploscompbiol/article?rev=2&id=10.1371/journal.pcbi.1007012).<br>
 154.[Challenges in long-term imaging and quantification of single-cell dynamics](https://www.nature.com/articles/nbt.3713).<br>
 155.[Cell Tracking via Proposal Generation and Selection](https://arxiv.org/abs/1705.03386).<br>
