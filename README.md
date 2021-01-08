@@ -177,7 +177,7 @@
 163.[3D Segmentation,Visualization and Quantitative Analysis of Differentiation Activity for Mouse Embryonic Stem Cells using Time-Lapse Fluorescence Microscopy Images](https://ieeexplore.ieee.org/document/8251279).<br>
 164.[DeepCell Kiosk: scaling deep learning–enabled cellular image analysis with Kubernetes](https://www.nature.com/articles/s41592-020-01023-0).<br>
 165.[nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation](https://www.nature.com/articles/s41592-020-01008-z).<br>
-166.
+166.[Maximizing Kolmogorov Complexity for accurate and robust bright field cell segmentation](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-32).<br>
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
 forum-[image.sc](https://forum.image.sc/tags/c/image-analysis/6/segmentation)
