@@ -181,6 +181,8 @@
 167.[Automated Segmentation of Fluorescence Microscopy Images for 3D Cell Detection in human-derived Cardiospheres](https://www.nature.com/articles/s41598-019-43137-2).<br>
 168.[Automated cell boundary and 3D nuclear segmentation of cells in suspension](https://www.nature.com/articles/s41598-019-46689-5).<br>
 169.[An objective comparison of cell-tracking algorithms](https://www.nature.com/articles/nmeth.4473).<br>
+170.[Accurate cell segmentation in microscopy images using membrane patterns](https://academic.oup.com/bioinformatics/article/30/18/2644/2475348).<br>
+
 
 
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
