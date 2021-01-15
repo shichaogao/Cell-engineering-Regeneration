@@ -185,6 +185,9 @@
 
 
 
+
+
+useful videos 1[DigitalSreeni](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/videos).<br>
 collection-[Deep learning in microscopy](https://www.nature.com/collections/cfcdjceech).<br>
 forum-[image.sc](https://forum.image.sc/tags/c/image-analysis/6/segmentation)
 library-[cell image library](cellimagelibrary.org).<br>
