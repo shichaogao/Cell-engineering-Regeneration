@@ -182,7 +182,7 @@
 168.[Automated cell boundary and 3D nuclear segmentation of cells in suspension](https://www.nature.com/articles/s41598-019-46689-5).<br>
 169.[An objective comparison of cell-tracking algorithms](https://www.nature.com/articles/nmeth.4473).<br>
 170.[Accurate cell segmentation in microscopy images using membrane patterns](https://academic.oup.com/bioinformatics/article/30/18/2644/2475348).<br>
-
+171.[Applications, promises, and pitfalls of deep learning for fluorescence image reconstruction.](https://www.nature.com/articles/s41592-019-0458-z).<br>
 
 
 
