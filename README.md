@@ -3,15 +3,19 @@
 
 **Table of Contents**:
 
-- [cell_imaging](#cell_imaging)
-  - [image processing(segmentation/detection/classification/tracking)](#image_processing(segmentation/detection/classification/tracking))
+- [cell_imaging processing](#cell_imaging_processing)
+  - [review/](#review)
+  - [2D/3D cell segmentation/](#2D/3D_cell_segmentation)
+  - [2D/3D cell tracking/](#2D/3D_cell_tracking)
+  - [lineage](#lineage)
+- [computer vision](#computer_vision) 
 - [single-cell_omics](#single-cell_omics)
 - [cell_lineage](#cell_lineage)
 *****************
 
 
-## cell_imaging
-### image_processing(segmentation/detection/classification/tracking)
+## cell_imaging_processing
+### review
 1.[ESC-Track: A computer workflow for 4-D segmentation, tracking, lineage tracing and dynamic context analysis of ESCs](https://pubmed.ncbi.nlm.nih.gov/32720710/).<br>
 2.[Automatic three‐dimensional segmentation of mouse embryonic stem cell nuclei by utilising multiple channels of confocal fluorescence images](https://onlinelibrary.wiley.com/doi/10.1111/jmi.12949).<br>
 3.[Evaluation of Deep Learning Strategies for Nucleus Segmentation in Fluorescence Images](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23863).<br>
@@ -234,6 +238,9 @@ library-[cell image library](cellimagelibrary.org).<br>
 5.[In Toto Imaging and Reconstruction of Post-Implantation Mouse Development at the Single-Cell Level](https://www.sciencedirect.com/science/article/pii/S0092867418312431).<br>
 6.[Long-term self-renewing stem cells in the adult mouse hippocampus identified by intravital imaging](https://www.nature.com/articles/s41593-020-00759-4).<br>
 7.[MARS: discovering novel cell types across heterogeneous single-cell experiments](https://www.nature.com/articles/s41592-020-00979-3).<br>
+
+
+
 
 
 
