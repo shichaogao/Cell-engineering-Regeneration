@@ -3,7 +3,7 @@
 
 **Table of Contents**:
 
-- [cell_imaging processing](#cell_imaging_processing)
+- [cell_imaging processing in chronological order](#cell_imaging_processing_chronological_order)
   - [review](#review)
   - [2D/3D cell segmentation](#2D/3D_cell_segmentation)
   - [2D/3D cell tracking](#2D/3D_cell_tracking)
@@ -16,7 +16,7 @@
 
 ## cell_imaging_processing
 ### review
-[Democratising deep learning for microscopy with ZeroCostDL4Mic 15/04/2021 ](https://www.nature.com/articles/s41467-021-22518-0).<br>
+[15/04/2021 Democratising deep learning for microscopy with ZeroCostDL4Mic](https://www.nature.com/articles/s41467-021-22518-0).<br>
 
 ### 2D/3D cell segmentation
 
