@@ -1,12 +1,12 @@
-# Cell-engineering-Regeneration
+# Cell biology
 *****************
 
 **Table of Contents**:
 
 - [cell_imaging processing](#cell_imaging_processing)
-  - [review/](#review)
-  - [2D/3D cell segmentation/](#2D/3D_cell_segmentation)
-  - [2D/3D cell tracking/](#2D/3D_cell_tracking)
+  - [review](#review)
+  - [2D/3D cell segmentation](#2D/3D_cell_segmentation)
+  - [2D/3D cell tracking](#2D/3D_cell_tracking)
   - [lineage](#lineage)
 - [computer vision](#computer_vision) 
 - [single-cell_omics](#single-cell_omics)
@@ -16,6 +16,15 @@
 
 ## cell_imaging_processing
 ### review
+[Democratising deep learning for microscopy with ZeroCostDL4Mic](https://www.nature.com/articles/s41467-021-22518-0).<br>
+
+### 2D/3D cell segmentation
+
+### 2D/3D cell tracking
+
+### lineage
+
+
 1.[ESC-Track: A computer workflow for 4-D segmentation, tracking, lineage tracing and dynamic context analysis of ESCs](https://pubmed.ncbi.nlm.nih.gov/32720710/).<br>
 2.[Automatic three‐dimensional segmentation of mouse embryonic stem cell nuclei by utilising multiple channels of confocal fluorescence images](https://onlinelibrary.wiley.com/doi/10.1111/jmi.12949).<br>
 3.[Evaluation of Deep Learning Strategies for Nucleus Segmentation in Fluorescence Images](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23863).<br>
