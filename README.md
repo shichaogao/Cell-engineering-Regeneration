@@ -16,7 +16,7 @@
 
 ## cell_imaging_processing
 ### review
-[15/04/2021 Democratising deep learning for microscopy with ZeroCostDL4Mic](https://www.nature.com/articles/s41467-021-22518-0).<br>
+[Democratising deep learning for microscopy with ZeroCostDL4Mic 15/04/2021 ](https://www.nature.com/articles/s41467-021-22518-0).<br>
 
 ### 2D/3D cell segmentation
 
