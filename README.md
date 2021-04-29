@@ -7,6 +7,7 @@
   - [review](#review)
   - [2D/3D cell segmentation](#2D/3D_cell_segmentation)
   - [2D/3D cell tracking](#2D/3D_cell_tracking)
+  - [mitosis detection](#mitosis_detection) 
   - [lineage](#lineage)
 - [computer vision](#computer_vision) 
 - [single-cell_omics](#single-cell_omics)
@@ -21,6 +22,9 @@
 ### 2D/3D cell segmentation
 
 ### 2D/3D cell tracking
+
+
+### mitosis detection
 
 ### lineage
 
