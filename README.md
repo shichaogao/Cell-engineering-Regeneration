@@ -10,6 +10,7 @@
   - [mitosis detection](#mitosis_detection) 
   - [lineage](#lineage)
 - [computer vision](#computer_vision) 
+- [cell mobility](#cell_mobility)
 - [single-cell_omics](#single-cell_omics)
 - [cell_lineage](#cell_lineage)
 *****************
@@ -27,6 +28,10 @@
 ### mitosis detection
 
 ### lineage
+
+## computer vision
+
+## cell mobility
 
 
 1.[ESC-Track: A computer workflow for 4-D segmentation, tracking, lineage tracing and dynamic context analysis of ESCs](https://pubmed.ncbi.nlm.nih.gov/32720710/).<br>
