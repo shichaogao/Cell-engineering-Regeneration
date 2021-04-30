@@ -19,7 +19,7 @@
 ## cell_imaging_processing
 ### review
 [04/15/2021 Democratising deep learning for microscopy with ZeroCostDL4Mic, Nature communications](https://www.nature.com/articles/s41467-021-22518-0).<br>
-[04/01/2021 Data science in cell imaging J Cell Sci](https://journals.biologists.com/jcs/article/134/7/jcs254292/238123/Data-science-in-cell-imaging).<br>
+[04/01/2021 Data science in cell imaging, J Cell Sci](https://journals.biologists.com/jcs/article/134/7/jcs254292/238123/Data-science-in-cell-imaging).<br>
 
 ### 2D/3D cell segmentation
 [04/19/2021 Open-source deep-learning software for bioimage segmentation, MBoC](molbiolcell.org/doi/10.1091/mbc.E20-10-0660).<br>
