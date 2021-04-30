@@ -38,6 +38,7 @@
 ## computer vision
 
 ## cell mobility
+[12/10/2020 Bridging from single to collective cell migration: A review of models and links to experiments, PLoS computational biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008411).<br>
 
 
 1.[ESC-Track: A computer workflow for 4-D segmentation, tracking, lineage tracing and dynamic context analysis of ESCs](https://pubmed.ncbi.nlm.nih.gov/32720710/).<br>
