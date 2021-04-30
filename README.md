@@ -24,6 +24,7 @@
 [04/19/2021 Open-source deep-learning software for bioimage segmentation, MBoC](molbiolcell.org/doi/10.1091/mbc.E20-10-0660).<br>
 [08/31/2018 CDeep3M—Plug-and-Play cloud-based deep learning for image segmentation, Nature Methods](https://www.nature.com/articles/s41592-018-0106-z).<br>
 ### 2D/3D cell tracking
+[10/28/2020 Automated cell tracking using StarDist and TrackMate, F1000Res](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7670479/).<br>
 
 
 ### mitosis detection
