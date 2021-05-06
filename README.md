@@ -8,7 +8,7 @@
   - [2D/3D cell segmentation](#2D/3D_cell_segmentation)
   - [2D/3D cell tracking](#2D/3D_cell_tracking)
   - [mitosis detection](#mitosis_detection) 
-  - [lineage](#lineage)
+  - [lineage tracing](#lineage_tracing)
 - [computer vision](#computer_vision) 
 - [cell mobility](#cell_mobility)
 - [single-cell_omics](#single-cell_omics)
@@ -28,17 +28,12 @@
 [08/31/2018 CDeep3M—Plug-and-Play cloud-based deep learning for image segmentation, Nature Methods](https://www.nature.com/articles/s41592-018-0106-z).<br>
 
 ### 2D/3D cell tracking
-[04/26/2016 Detection and tracking of overlapping cell nuclei for large scale mitosis analyses, BMC Bioinformatics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4845473/).<br>
-
-
 [02/22/2021  CellMAPtracer: A User-Friendly Tracking Tool for Long-Term Migratory and Proliferating Cells Associated with FUCCI Systems, Cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7927118/).<br>
-
-
-
+[04/26/2016 Detection and tracking of overlapping cell nuclei for large scale mitosis analyses, BMC Bioinformatics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4845473/).<br>
 ### mitosis detection
 [01/31/2018 DeepMitosis: Mitosis detection via deep detection, verification and segmentation networks, Med Image Anal](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301834?via%3Dihub).<br>
 
-### lineage
+### lineage tracing
 
 ## computer vision
 
