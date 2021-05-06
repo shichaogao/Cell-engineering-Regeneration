@@ -33,6 +33,7 @@
 
 
 ### mitosis detection
+[01/31/2018 DeepMitosis: Mitosis detection via deep detection, verification and segmentation networks, Med Image Anal](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301834?via%3Dihub).<br>
 
 ### lineage
 
