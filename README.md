@@ -23,6 +23,7 @@
 [04/19/2021 Developing open-source software for bioimage analysis: opportunities and challenges ,under peer review](https://f1000research.com/articles/10-302).<br>
 [04/15/2021 Democratising deep learning for microscopy with ZeroCostDL4Mic, Nature communications](https://www.nature.com/articles/s41467-021-22518-0).<br>
 [04/01/2021 Data science in cell imaging, J Cell Sci](https://journals.biologists.com/jcs/article/134/7/jcs254292/238123/Data-science-in-cell-imaging).<br>
+[05/27/2019 Deep learning for cellular image analysis, nature methods](https://www.nature.com/articles/s41592-019-0403-1).<br>
 
 ### 2D/3D cell segmentation
 [04/19/2021 Open-source deep-learning software for bioimage segmentation, MBoC](https://www.molbiolcell.org/doi/abs/10.1091/mbc.E20-10-0660).<br>
