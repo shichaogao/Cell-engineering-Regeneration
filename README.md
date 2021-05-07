@@ -46,7 +46,7 @@
 
 ### FISH-quant
 
-### Insight
+### Insights
 [09/04/2020 Live-cell imaging and analysis reveal cell phenotypic transition dynamics inherently missing in snapshot data, Sci Adv](https://advances.sciencemag.org/content/6/36/eaba9319).<br>
 
 ## computer vision
