@@ -14,6 +14,7 @@
 - [cell mobility analysis](#cell_mobility_analysis)
 - [cell movement modelling](#cell_movement_modelling)
 - [collective cell behavior](#collective_cell_behavior)
+- [cell intelligence](cell_intelligence)
 - [single-cell_omics](#single-cell_omics)
 - [cell_lineage](#cell_lineage)
 *****************
@@ -49,6 +50,8 @@
 ## cell movement modelling
 
 ## collective cell behavior
+
+## cell intelligence
 
 1.[ESC-Track: A computer workflow for 4-D segmentation, tracking, lineage tracing and dynamic context analysis of ESCs](https://pubmed.ncbi.nlm.nih.gov/32720710/).<br>
 2.[Automatic three‐dimensional segmentation of mouse embryonic stem cell nuclei by utilising multiple channels of confocal fluorescence images](https://onlinelibrary.wiley.com/doi/10.1111/jmi.12949).<br>
