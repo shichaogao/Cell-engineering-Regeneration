@@ -11,7 +11,8 @@
   - [lineage tracing](#lineage_tracing)
   - [FISH-quant](#FISH-quant)
 - [computer vision](#computer_vision) 
-- [cell mobility](#cell_mobility)
+- [cell mobility analysis](#cell_mobility_analysis)
+- [cell movement modelling](#cell_movement_modelling)
 - [single-cell_omics](#single-cell_omics)
 - [cell_lineage](#cell_lineage)
 *****************
@@ -40,9 +41,10 @@
 
 ## computer vision
 
-## cell mobility
+## cell mobility analysis
 [12/10/2020 Bridging from single to collective cell migration: A review of models and links to experiments, PLoS computational biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008411).<br>
 
+## cell movement modelling
 
 1.[ESC-Track: A computer workflow for 4-D segmentation, tracking, lineage tracing and dynamic context analysis of ESCs](https://pubmed.ncbi.nlm.nih.gov/32720710/).<br>
 2.[Automatic three‐dimensional segmentation of mouse embryonic stem cell nuclei by utilising multiple channels of confocal fluorescence images](https://onlinelibrary.wiley.com/doi/10.1111/jmi.12949).<br>
