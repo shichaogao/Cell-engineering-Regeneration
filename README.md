@@ -10,6 +10,7 @@
   - [mitosis detection](#mitosis_detection) 
   - [lineage tracing](#lineage_tracing)
   - [FISH-quant](#FISH-quant)
+  - [Insights](#Insight)
 - [computer vision](#computer_vision) 
 - [cell mobility analysis](#cell_mobility_analysis)
 - [cell movement modelling](#cell_movement_modelling)
@@ -44,6 +45,9 @@
 ### lineage tracing
 
 ### FISH-quant
+
+### Insight
+[09/04/2020 Live-cell imaging and analysis reveal cell phenotypic transition dynamics inherently missing in snapshot data, Sci Adv](https://advances.sciencemag.org/content/6/36/eaba9319).<br>
 
 ## computer vision
 
