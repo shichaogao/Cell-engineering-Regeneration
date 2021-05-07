@@ -34,6 +34,7 @@
 
 ### 2D/3D cell tracking
 [02/22/2021  CellMAPtracer: A User-Friendly Tracking Tool for Long-Term Migratory and Proliferating Cells Associated with FUCCI Systems, Cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7927118/).<br>
+[10/14/2019 Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning](https://www.biorxiv.org/content/10.1101/803205v2.full.pdf+html).<br>
 [04/26/2016 Detection and tracking of overlapping cell nuclei for large scale mitosis analyses, BMC Bioinformatics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4845473/).<br>
 ### mitosis detection
 [01/31/2018 DeepMitosis: Mitosis detection via deep detection, verification and segmentation networks, Med Image Anal](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301834?via%3Dihub).<br>
