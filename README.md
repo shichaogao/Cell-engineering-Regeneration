@@ -9,6 +9,7 @@
   - [2D/3D cell tracking](#2D/3D_cell_tracking)
   - [mitosis detection](#mitosis_detection) 
   - [lineage tracing](#lineage_tracing)
+  - [FISH-quant](#FISH-quant)
 - [computer vision](#computer_vision) 
 - [cell mobility](#cell_mobility)
 - [single-cell_omics](#single-cell_omics)
@@ -34,6 +35,8 @@
 [01/31/2018 DeepMitosis: Mitosis detection via deep detection, verification and segmentation networks, Med Image Anal](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301834?via%3Dihub).<br>
 
 ### lineage tracing
+
+### FISH-quant
 
 ## computer vision
 
