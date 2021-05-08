@@ -53,6 +53,14 @@
 ## computer vision
 
 ## cell reprogramming imaging
+[04/26/2019 Cell competition during reprogramming gives rise to dominant clones, Science](https://science.sciencemag.org/content/364/6438/eaan0925).<br>
+[01/30/2014 Nonstochastic Reprogramming from a Privileged Somatic Cell State, Cell](https://www.cell.com/fulltext/S0092-8674(14)00072-5).<br>
+[01/17/2013 Dynamic Migration and Cell‐Cell Interactions of Early Reprogramming Revealed by High‐Resolution Time‐Lapse Imaging, Stem Cells](https://stemcellsjournals.onlinelibrary.wiley.com/doi/full/10.1002/stem.1323).<br>
+[05/02/2010 Dynamic single cell imaging of direct reprogramming reveals an early specifying event, Nat Biotech](https://www.nature.com/articles/nbt.16320).<br>
+
+
+
+
 
 ## cell mobility analysis
 [12/10/2020 Bridging from single to collective cell migration: A review of models and links to experiments, PLoS computational biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008411).<br>
