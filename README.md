@@ -27,8 +27,9 @@
 [04/19/2021 Developing open-source software for bioimage analysis: opportunities and challenges ,under peer review](https://f1000research.com/articles/10-302).<br>
 [04/15/2021 Democratising deep learning for microscopy with ZeroCostDL4Mic, Nature communications](https://www.nature.com/articles/s41467-021-22518-0).<br>
 [04/01/2021 Data science in cell imaging, J Cell Sci](https://journals.biologists.com/jcs/article/134/7/jcs254292/238123/Data-science-in-cell-imaging).<br>
+[01/04/2021 DeepCell Kiosk: scaling deep learning–enabled cellular image analysis with Kubernetesv, Nature Methods](https://www.nature.com/articles/s41592-020-01023-0).<br>
 [05/27/2019 Deep learning for cellular image analysis, nature methods](https://www.nature.com/articles/s41592-019-0403-1).<br>
-
+[05/18/2019 Single-cell approaches to cell competition: High-throughput imaging, machine learning and simulations](https://www.sciencedirect.com/science/article/abs/pii/S1044579X18301780?via%3Dihub).<br>
 ### 2D/3D cell segmentation
 [04/19/2021 Open-source deep-learning software for bioimage segmentation, MBoC](https://www.molbiolcell.org/doi/abs/10.1091/mbc.E20-10-0660).<br>
 [12/08/2020 Cell segmentation and tracking using CNN-based distance predictions and a graph-based matching strategy, PLOS one](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243219).<br>
@@ -40,9 +41,22 @@
 [03/30/2021 3DeeCellTracker, a deep learning-based pipeline for segmenting and tracking cells in 3D time lapse images, eLife](https://elifesciences.org/articles/59187).<br>
 [03/16/2021 A graph-based cell tracking algorithm with few manually tunable parameters and automated segmentation error correction](https://www.biorxiv.org/content/10.1101/2021.03.16.435631v1).<br>
 [02/22/2021  CellMAPtracer: A User-Friendly Tracking Tool for Long-Term Migratory and Proliferating Cells Associated with FUCCI Systems, Cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7927118/).<br>
+[09/10/2020 Automated deep lineage tree analysis using a Bayesian single cell tracking approach](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1).<br>
+[08/04/2020 EllipTrack: A Global-Local Cell-Tracking Pipeline for 2D Fluorescence Time-Lapse Microscopy, Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30969-4).<br>
 [10/14/2019 Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning](https://www.biorxiv.org/content/10.1101/803205v2.full.pdf+html).<br>
+[08/26/2019 Toward Robust Fully 3D Filopodium Segmentation and Tracking in Time-Lapse Fluorescence Microscopy](https://ieeexplore.ieee.org/abstract/document/8803721).<br>
+[03/29/2019 eDetect: A Fast Error Detection and Correction Tool for Live Cell Imaging Data Analysis, iScience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6383125/).<br>
+[2016 Segmentation and tracking of cells and particles in time-lapse microscopy, Magnusson, Klas Doctoral Thesis](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1049813&dswid=-8323).<br>
+[10/30/2017 An objective comparison of cell-tracking algorithms, Nat Methods](https://www.nature.com/articles/nmeth.4473).<br>
 [07/12/2016 Software tools for single-cell tracking and quantification of cellular and molecular properties, Nature biotechnology](https://www.nature.com/articles/nbt.3626)<br>
 [04/26/2016 Detection and tracking of overlapping cell nuclei for large scale mitosis analyses, BMC Bioinformatics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4845473/).<br>
+[11/14/2014 Global linking of cell tracks using the Viterbi algorithm, IEEE Trans Med Imaging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765504/).<br>
+[06/01/2014 A benchmark for comparison of cell tracking algorithms, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/11/1609/283435?login=true).<br>
+[01/19/2014 Objective comparison of particle tracking methods, Nature Methods](https://www.nature.com/articles/nmeth.2808).<br>
+[07/12/2012 A batch algorithm using iterative application of the Viterbi algorithm to track cells and construct cell lineages,  2012 9th IEEE International Symposium on Biomedical Imaging (ISBI)](https://ieeexplore.ieee.org/abstract/document/6235564/authors#authors).<br>
+[2011 Cell tracking for automated analysis of timelapse microscopy, Magnusson, Klas Master Thesis](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A470908&dswid=-6775).<br>
+
+
 ### mitosis detection
 [01/31/2018 DeepMitosis: Mitosis detection via deep detection, verification and segmentation networks, Med Image Anal](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301834?via%3Dihub).<br>
 
@@ -73,6 +87,10 @@
 ## cell movement modelling
 
 ## collective cell behavior
+[08/08/2019 Distinct modes of cell competition are governed by entropic and energetic properties of mixed cell populations, Bioaxiv](https://www.biorxiv.org/content/10.1101/729731v1).<br>
+[09/20/2017 Local cellular neighborhood controls proliferation in cell competition, MBoC](https://www.molbiolcell.org/doi/10.1091/mbc.e17-06-0368).<br>
+[09/07/2016 MitoGen: A Framework for Generating 3D Synthetic Time-Lapse Sequences of Cell Populations in Fluorescence Microscopy, IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/abstract/document/7562482).<br>
+
 
 ## cell intelligence
 
