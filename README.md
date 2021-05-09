@@ -46,7 +46,7 @@
 ### lineage tracing
 
 ### FISH-quant
-
+[03/09/2021 RS-FISH: Precise, interactive and scalable smFISH spot detection using Radial Symmetry, Bioaxiv](https://www.biorxiv.org/content/10.1101/2021.03.09.434205v1.full.pdf+html).<br>
 ### Insights
 [09/04/2020 Live-cell imaging and analysis reveal cell phenotypic transition dynamics inherently missing in snapshot data, Sci Adv](https://advances.sciencemag.org/content/6/36/eaba9319).<br>
 
