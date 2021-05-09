@@ -31,11 +31,14 @@
 
 ### 2D/3D cell segmentation
 [04/19/2021 Open-source deep-learning software for bioimage segmentation, MBoC](https://www.molbiolcell.org/doi/abs/10.1091/mbc.E20-10-0660).<br>
+[12/08/2020 Cell segmentation and tracking using CNN-based distance predictions and a graph-based matching strategy, PLOS one](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243219).<br>
 [10/28/2020 Automated cell tracking using StarDist and TrackMate, F1000Res](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7670479/).<br>
 [08/31/2018 CDeep3M—Plug-and-Play cloud-based deep learning for image segmentation, Nature Methods](https://www.nature.com/articles/s41592-018-0106-z).<br>
 [07/01/2017 fastER: a user-friendly tool for ultrafast and robust cell segmentation in large-scale microscopy, Bioinformatics](https://academic.oup.com/bioinformatics/article/33/13/2020/3045025).<br>
 
 ### 2D/3D cell tracking
+[03/30/2021 3DeeCellTracker, a deep learning-based pipeline for segmenting and tracking cells in 3D time lapse images, eLife](https://elifesciences.org/articles/59187).<br>
+[03/16/2021 A graph-based cell tracking algorithm with few manually tunable parameters and automated segmentation error correction](https://www.biorxiv.org/content/10.1101/2021.03.16.435631v1).<br>
 [02/22/2021  CellMAPtracer: A User-Friendly Tracking Tool for Long-Term Migratory and Proliferating Cells Associated with FUCCI Systems, Cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7927118/).<br>
 [10/14/2019 Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning](https://www.biorxiv.org/content/10.1101/803205v2.full.pdf+html).<br>
 [07/12/2016 Software tools for single-cell tracking and quantification of cellular and molecular properties, Nature biotechnology](https://www.nature.com/articles/nbt.3626)<br>
