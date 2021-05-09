@@ -29,7 +29,7 @@
 [04/01/2021 Data science in cell imaging, J Cell Sci](https://journals.biologists.com/jcs/article/134/7/jcs254292/238123/Data-science-in-cell-imaging).<br>
 [01/04/2021 DeepCell Kiosk: scaling deep learning–enabled cellular image analysis with Kubernetesv, Nature Methods](https://www.nature.com/articles/s41592-020-01023-0).<br>
 [05/27/2019 Deep learning for cellular image analysis, nature methods](https://www.nature.com/articles/s41592-019-0403-1).<br>
-[05/18/2019 Single-cell approaches to cell competition: High-throughput imaging, machine learning and simulations](https://www.sciencedirect.com/science/article/abs/pii/S1044579X18301780?via%3Dihub).<br>
+[05/18/2019 Single-cell approaches to cell competition: High-throughput imaging, machine learning and simulations, Seminars in Cancer Biology](https://www.sciencedirect.com/science/article/abs/pii/S1044579X18301780?via%3Dihub).<br>
 ### 2D/3D cell segmentation
 [04/19/2021 Open-source deep-learning software for bioimage segmentation, MBoC](https://www.molbiolcell.org/doi/abs/10.1091/mbc.E20-10-0660).<br>
 [12/08/2020 Cell segmentation and tracking using CNN-based distance predictions and a graph-based matching strategy, PLOS one](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243219).<br>
@@ -87,6 +87,7 @@
 ## cell movement modelling
 
 ## collective cell behavior
+[07/13/2020 Cell-scale biophysical determinants of cell competition in epithelia, Bioaxiv](https://www.biorxiv.org/content/10.1101/729731v2.full.pdf+html).<br>
 [08/08/2019 Distinct modes of cell competition are governed by entropic and energetic properties of mixed cell populations, Bioaxiv](https://www.biorxiv.org/content/10.1101/729731v1).<br>
 [09/20/2017 Local cellular neighborhood controls proliferation in cell competition, MBoC](https://www.molbiolcell.org/doi/10.1091/mbc.e17-06-0368).<br>
 [09/07/2016 MitoGen: A Framework for Generating 3D Synthetic Time-Lapse Sequences of Cell Populations in Fluorescence Microscopy, IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/abstract/document/7562482).<br>
