@@ -39,9 +39,9 @@
 
 ### 2D/3D cell tracking
 [03/30/2021 3DeeCellTracker, a deep learning-based pipeline for segmenting and tracking cells in 3D time lapse images, eLife](https://elifesciences.org/articles/59187).<br>
-[03/16/2021 A graph-based cell tracking algorithm with few manually tunable parameters and automated segmentation error correction](https://www.biorxiv.org/content/10.1101/2021.03.16.435631v1).<br>
+[03/16/2021 A graph-based cell tracking algorithm with few manually tunable parameters and automated segmentation error correction, Bioaxiv](https://www.biorxiv.org/content/10.1101/2021.03.16.435631v1).<br>
 [02/22/2021  CellMAPtracer: A User-Friendly Tracking Tool for Long-Term Migratory and Proliferating Cells Associated with FUCCI Systems, Cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7927118/).<br>
-[09/10/2020 Automated deep lineage tree analysis using a Bayesian single cell tracking approach](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1).<br>
+[09/10/2020 Automated deep lineage tree analysis using a Bayesian single cell tracking approach, Bioaxiv](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1).<br>
 [08/04/2020 EllipTrack: A Global-Local Cell-Tracking Pipeline for 2D Fluorescence Time-Lapse Microscopy, Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30969-4).<br>
 [10/14/2019 Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning](https://www.biorxiv.org/content/10.1101/803205v2.full.pdf+html).<br>
 [08/26/2019 Toward Robust Fully 3D Filopodium Segmentation and Tracking in Time-Lapse Fluorescence Microscopy](https://ieeexplore.ieee.org/abstract/document/8803721).<br>
