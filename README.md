@@ -48,6 +48,7 @@
 
 ### FISH-quant
 [03/09/2021 RS-FISH: Precise, interactive and scalable smFISH spot detection using Radial Symmetry, Bioaxiv](https://www.biorxiv.org/content/10.1101/2021.03.09.434205v1.full.pdf+html).<br>
+[11/05/2016 smiFISH and FISH-quant – a flexible single RNA detection approach with super-resolution capability](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5159540/).<br>
 ### Insights
 [09/04/2020 Live-cell imaging and analysis reveal cell phenotypic transition dynamics inherently missing in snapshot data, Sci Adv](https://advances.sciencemag.org/content/6/36/eaba9319).<br>
 
