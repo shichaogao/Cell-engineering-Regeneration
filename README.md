@@ -68,6 +68,7 @@
 [01/31/2018 DeepMitosis: Mitosis detection via deep detection, verification and segmentation networks, Med Image Anal](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301834?via%3Dihub).<br>
 
 ### lineage tracing
+[11/08/2016 Moral Lineage Tracing, arXiv](https://arxiv.org/pdf/1511.05512.pdf).<br>
 [11/08/2013 Long-Term Live Cell Imaging and Automated 4D Analysis of Drosophila Neuroblast Lineages, Plos one](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079588).<br>
 
 ### FISH-quant
