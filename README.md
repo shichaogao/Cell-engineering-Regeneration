@@ -97,6 +97,7 @@
 ## collective cell behavior
 [07/13/2020 Cell-scale biophysical determinants of cell competition in epithelia, Bioaxiv](https://www.biorxiv.org/content/10.1101/729731v2.full.pdf+html).<br>
 [08/08/2019 Distinct modes of cell competition are governed by entropic and energetic properties of mixed cell populations, Bioaxiv](https://www.biorxiv.org/content/10.1101/729731v1).<br>
+[07/16/2018 Entropic effects in cell lineage tree packings, Nature Physics](https://www.nature.com/articles/s41567-018-0202-0).<br>
 [09/20/2017 Local cellular neighborhood controls proliferation in cell competition, MBoC](https://www.molbiolcell.org/doi/10.1091/mbc.e17-06-0368).<br>
 [09/07/2016 MitoGen: A Framework for Generating 3D Synthetic Time-Lapse Sequences of Cell Populations in Fluorescence Microscopy, IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/abstract/document/7562482).<br>
 
