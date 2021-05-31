@@ -41,7 +41,7 @@
 [12/08/2020 Cell segmentation and tracking using CNN-based distance predictions and a graph-based matching strategy, PLOS one](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243219).<br>
 [10/28/2020 Automated cell tracking using StarDist and TrackMate, F1000Res](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7670479/).<br>
 [08/31/2018 CDeep3M—Plug-and-Play cloud-based deep learning for image segmentation, Nature Methods](https://www.nature.com/articles/s41592-018-0106-z).<br>
-[07/01/2017 fastER: a user-friendly tool for ultrafast and robust cell segmentation in large-scale microscopy, Bioinformatics](https://academic.oup.com/bioi nformatics/article/33/13/2020/3045025).<br>
+[07/01/2017 fastER: a user-friendly tool for ultrafast and robust cell segmentation in large-scale microscopy, Bioinformatics](https://academic.oup.com/bioinformatics/article/33/13/2020/3045025).<br>
 
 
 ### 2D/3D cell tracking
@@ -55,6 +55,7 @@
 [03/29/2019 eDetect: A Fast Error Detection and Correction Tool for Live Cell Imaging Data Analysis, iScience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6383125/).<br>
 [2016 Segmentation and tracking of cells and particles in time-lapse microscopy, Magnusson, Klas Doctoral Thesis](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1049813&dswid=-8323).<br>
 [10/30/2017 An objective comparison of cell-tracking algorithms, Nat Methods](https://www.nature.com/articles/nmeth.4473).<br>
+[2016 Segmentation and tracking of cells and particles in time-lapse microscopy, Doctoral thesis](https://www.diva-portal.org/smash/get/diva2:1049813/FULLTEXT01.pdf).<br>
 [07/12/2016 Software tools for single-cell tracking and quantification of cellular and molecular properties, Nature biotechnology](https://www.nature.com/articles/nbt.3626)<br>
 [04/26/2016 Detection and tracking of overlapping cell nuclei for large scale mitosis analyses, BMC Bioinformatics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4845473/).<br>
 [11/14/2014 Global linking of cell tracks using the Viterbi algorithm, IEEE Trans Med Imaging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765504/).<br>
@@ -69,6 +70,7 @@
 
 ### lineage tracing
 [11/08/2016 Moral Lineage Tracing, arXiv](https://arxiv.org/pdf/1511.05512.pdf).<br>
+[07/20/2014 Fast, accurate reconstruction of cell lineages from large-scale fluorescence microscopy data, Nature Methods](https://www.nature.com/articles/nmeth.3036/).<br>
 [11/08/2013 Long-Term Live Cell Imaging and Automated 4D Analysis of Drosophila Neuroblast Lineages, Plos one](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079588).<br>
 
 ### FISH-quant
