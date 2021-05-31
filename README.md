@@ -39,8 +39,10 @@
 ### 2D/3D cell segmentation
 [04/19/2021 Open-source deep-learning software for bioimage segmentation, MBoC](https://www.molbiolcell.org/doi/abs/10.1091/mbc.E20-10-0660).<br>
 [12/08/2020 Cell segmentation and tracking using CNN-based distance predictions and a graph-based matching strategy, PLOS one](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243219).<br>
+[06/15/2020 Star-convex Polyhedra for 3D Object Detection and Segmentation in Microscopy, CVPR](https://openaccess.thecvf.com/content_WACV_2020/papers/Weigert_Star-convex_Polyhedra_for_3D_Object_Detection_and_Segmentation_in_Microscopy_WACV_2020_paper.pdf).<br>
 [10/28/2020 Automated cell tracking using StarDist and TrackMate, F1000Res](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7670479/).<br>
 [08/31/2018 CDeep3M—Plug-and-Play cloud-based deep learning for image segmentation, Nature Methods](https://www.nature.com/articles/s41592-018-0106-z).<br>
+[06/09/2018 Cell Detection with Star-convex Polygons, arXiv](https://arxiv.org/abs/1806.03535).<br>
 [07/01/2017 fastER: a user-friendly tool for ultrafast and robust cell segmentation in large-scale microscopy, Bioinformatics](https://academic.oup.com/bioinformatics/article/33/13/2020/3045025).<br>
 
 
